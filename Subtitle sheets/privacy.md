@@ -1,4 +1,7 @@
-## Subtitle sheets
+---
+permalink: /SubtitleSheets/privacy
+layout: clean
+---
 
 <div id="md_en" data-target="out_en" class="agreement_md"><h1>Privacy Policy</h1>
 <p>Last updated: May 24, 2021</p>
