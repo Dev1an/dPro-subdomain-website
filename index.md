@@ -2,5 +2,5 @@
 
 Hi, I am a Belgian software developer and photographer.
 
-- [My repositories on Github](http://github.com/dev1an/)
-- [Some photos](https://500px.com/p/damiaandufaux?view=photos)
+- [GitHub](http://github.com/dev1an/)
+- [500px](https://500px.com/p/damiaandufaux?view=photos)
